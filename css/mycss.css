@@ -27,3 +27,18 @@ a.sitetitle {
     height: 60px;
     background:rgba( 352, 235, 5, 1)
 }
+.myMenu ul {
+    float: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.myMenu li {
+    position: relative;
+    float: left;
+    display: inline;
+    height: 60px;
+    line-height: 60px;
+    margin-right: 20px;
+}
