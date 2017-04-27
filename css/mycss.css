@@ -54,3 +54,19 @@ a.sitetitle {
     line-height: 70px;
     margin-right: 15px;
 }
+.myMenu img {
+    vertical-align: middle;
+}
+
+.myMenu ul li a {
+    margin-right: 1px;
+    padding: 0 10px;
+    color: white;
+}
+
+#mainContent {
+    clear: both;
+    width: 1015px;
+    margin: 0 auto;
+    padding: 5px 10px 0;
+}
